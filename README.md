@@ -1,0 +1,2 @@
+# smooth_predictions_by_blending_patches_Pytorch
+Edit version of smooth_predictions_by_blending_patches code from python_for_microscopists to run on Pytorch segmentation models 
